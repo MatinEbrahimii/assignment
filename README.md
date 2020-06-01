@@ -8,7 +8,7 @@ pass all tests.
 - [Where to start](##where-to-start)
 - [Get fammiliar with project](##get-familiar-with-project)
 
-## Where To Start
+# Where To Start
 
 To start the quiz, first clone the project from command line or download the [zip file](https://github.com/hamedghaderi/assignment/archive/master.zip).
 
