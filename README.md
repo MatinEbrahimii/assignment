@@ -8,7 +8,7 @@ pass all tests.
 - [Where to start](##where-to-start)
 - [Get fammiliar with project](##get-familiar-with-project)
 
-# Where To Start
+## Where To Start
 
 To start the quiz, first clone the project from command line or download the [zip file](https://github.com/hamedghaderi/assignment/archive/master.zip).
 
@@ -26,7 +26,7 @@ If your PHP version is under 7.4, please upgrade to PHP 7.4.
 There is no need to install database. 
 
 
-## Get Familiar with Project
+## Get Familiar With Project
 
 If you look around, there are two basic folders `src` and `tests`. We have some problems inside the tests and want
 to find the best solution for each problem.
