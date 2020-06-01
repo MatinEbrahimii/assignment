@@ -1,0 +1,19 @@
+{
+    "name": "kubak/assignment",
+    "authors": [
+        {
+            "name": "Hamed Ghaderi",
+            "email": "hamedghaderii@gmail.com"
+        }
+    ],
+    "autoload": {
+       "psr-4": {
+           "App\\": "src/",
+           "Test\\": "test/"
+       }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunir/phpunit": "^9"
+    }
+}
