@@ -18,7 +18,7 @@ $ git clone https://github.com/hamedghaderi/assignment.git
 
 Next go to the downloaded directory and install it's requirements.
 
-```
+```bash
 $ cd /PROJECT_PATH/assignments
 $ composer install
 ```
