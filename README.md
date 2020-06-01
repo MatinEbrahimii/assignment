@@ -5,8 +5,8 @@ Hi Dear
 There are some assignments to help us know you better. Please make sure to find the best solution for each problems and also
 pass all tests. 
 
-- [Where to start](##where-to-start)
-- [Get fammiliar with project](##get-familiar-with-project)
+- [Where to start](#where-to-start)
+- [Get fammiliar with project](#get-familiar-with-project)
 
 ## Where To Start
 
