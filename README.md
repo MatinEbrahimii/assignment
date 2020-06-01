@@ -12,7 +12,7 @@ pass all tests.
 
 To start the quiz, first clone the project from command line or download the [zip file](https://github.com/hamedghaderi/assignment/archive/master.zip).
 
-```
+```bash
 $ git clone https://github.com/hamedghaderi/assignment.git
 ```
 
